@@ -1,3 +1,7 @@
+##Dataset
+
+- https://www.kaggle.com/datasets/kazanova/sentiment140/data
+
 ## ✅ Prerequisites
 
 - Ensure Python is installed (version 3.7 or higher recommended).
